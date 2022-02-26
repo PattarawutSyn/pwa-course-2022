@@ -18,6 +18,7 @@ function FriendList(){
         <div className="friend-list-item">
           <Avatar name = {x.user}/> 
           {x.displayName}
+          
         </div>
       )}
       </div>
