@@ -1,0 +1,13 @@
+.tray.open {
+    width: 20%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgb(229, 233, 0);
+}
+
+.tray.closed {
+    width: 20%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: rgb(132, 60, 214);
+}
